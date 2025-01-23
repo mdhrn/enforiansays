@@ -1,0 +1,149 @@
+IKAL	::	"Ayah, anak ini bau angus."
+IKAL	::	"Harun! Itu dia, ada Harun!"
+MAHAR	::	Korupsi uang jalan Ibunda!
+IKAL	::	BOREK!
+IKAL	::	KUCAI!
+IKAL	::	KUCAI LAGI!
+IKAL	::	KUCAI!
+IKAL	::	Akhem... KUCAI... LAGI!
+IKAL	::	KUCAII!!
+IKAL	::	BO- eh KUCAIIIII!
+IKAL	::	KUCAAAAAAAIIIIIII
+A KIONG	::	Ayo aja!
+A KIONG	::	"Eh, kita main ke padang pesisir aja yuk?"
+IKAL	::	"Pelajaran pertama bagi diriku di sini, jika tak pandai sholat, maka setidaknya pandai-pandailah berenang."
+MATEMATIKAWAN 1	::	Lintang...masuk DTETI Lintang..
+MATEMATIKAWAN 2	::	Lintang...masuk DTETI Lintang...
+MATEMATIKAWAN 1	::	"Ah lihatlah, dia belajar Fisika! Calon anak elektro banget nih"
+MATEMATIKAWAN 2	::	Fisika apanya? Tak bisakah kau lihat? Dia sedang belajar matematika! Mukanya juga sudah cocok menjadi anak teknologi informasi
+MATEMATIKAWAN 1	::	Teknik Elektro!
+MATEMATIKAWAN 2	::	Teknologi Informasi!
+IKAL	::	Woy! Lagi santai kawan! Lagi santai!
+MAHAR	::	"Falling in Love.. With.. You.. BUSET! Oy, Kawan! Menurutmu cinta itu apa?"
+MAHAR	::	Ah- bukan seperti itu aku hanya–
+IKAL	::	Cinta.
+IKAL	::	Cinta mungkin akan terasa bagi semua orang.. Tapi tidak denganku
+IKAL	::	"Bagiku, cinta akan dapat dimengerti melalui larik puisi. Dimana kau akan bisa menuangkan seluruh perasaanmu ke dalamnya. Pun bisa melalui pandangan dimana dua insan saling merengkuh satu sama lain. Namun,.."
+IKAL	::	"Namun, tak ada yang bisa kubayangkan seseorang akan menjadi milikku."
+MAHAR	::	Waduh! Ngeri sekali kawanku yang satu ini.
+IKAL	::	"Jangan katakan, bahwa anak yang berasal dari sekolah sebelah itu telah membuat Mahar terpesona, boi!"
+IKAL	::	UUUUUU ....
+MAHAR	::	"Ahah! Tau apa kalian ini. Sudah-sudah, lanjutkan saja gundu mu itu. Aku pergi dulu. Ketua sedang sibuk!"
+IKAL	::	Tidak seperti itu ibunda guru.. Toko Sinar Harapan itu bau dan kotor aku tak sanggup mencium bau busuk itu.
+IKAL	::	Nampak semangat sekali kau rupanya.
+IKAL	::	"Memang dasar. Sekali mendayung, dua tiga pulau terlampaui."
+IKAL	::	A Miaw! Kapur untuk BU MUSLIMAH!
+IKAL	::	Jumpai aku di sembahyang rebut.
+IKAL	::	Bidadariku mengajakku ke sembahyang rebut. Apa yang harus aku siapkan? apakah harus kuberikan ia sekuncup bunga mawar yang harum itu? ah tidak tidak. Satu tangkai itu sama harganya dengan satu dos kapur ini. Lalu apa yang bisa aku bawa?
+IKAL	::	Surat apa? tidak ada surat-surat. Sedang apa kau disini?
+IKAL	::	Apa-apaan kau ini?! Memangnya apa isi suratmu? Kau dapat darimana?
+IKAL	::	"Cepat beri tau, kau dapat darimana?"
+IKAL	::	"Perempuan? Siapa? Seperti apa rupanya? apakah ia mirip dengan Michelle Yeoh?! Apakah dia berkulit lembut? Rambutnya lurus sebahu? Matanya kecil namun bersinar? Seperti apa, Cai?! Bagi tau aku!!!"
+IKAL	::	"Buka lah sekarang suratnya, Cai. Apa isi surat itu?!"
+IKAL	::	"Eh.. Suratnya Kosong, Boy?"
+IKAL	::	Lalu?
+IKAL	::	"Kenapa, Cai?!"
+IKAL	::	Ya tuhan..
+IKAL	::	"Kau yakin, Cai?"
+IKAL	::	"Tapi kan, Lintang jauh lebih jenius dariku!"
+IKAL	::	"Iya deh, iya. satu, dua, tiga"
+IKAL	::	"Aku.. tidak paham Cai! benar katamu, aku menjadi pusing sekarang"
+IKAL	::	"A Kiong? bukannya katamu, dia paling bodoh?"
+IKAL	::	"Kucai sialan, tunggu aku!"
+IKAL	::	"Tapi susah lah baca tulisan kau ni, tang. Macam kaki ayam."
+IKAL	::	"Bagaimana kau bisa menjawab secepat itu, tang? Kau pun tak pakai alat hitung kau?"
+A KIONG	::	... belkibalah bendelaaku ...lambang suci gagah pelwila....
+MAHAR	::	"Lagu yang akan kubawakan ini, menceritakan soal bodohnya seseorang saat mereka tengah dimabuk asmara, terjerat oleh cintanya sendiri pada sang Kasih"
+MAHAR	::	"Baik, Ibunda Guru."
+IKAL	::	Akan aku ceritakan lain hari tentang seorang bidadari dari suatu bilik kecil.
+A KIONG	::	"Hoy, Ikal!!"
+IKAL	::	MAMAK!! A Kiong? Kau kenapa ada disini?
+A KIONG	::	Jelas aku sembahyang disini. Kau? Mengapa kemari?
+IKAL	::	Ah. Kau nih. Aku ingin bertemu seseorang. Michelle Yeohku..
+A KIONG	::	Michelle Yeoh?
+A KIONG	::	A Ling maksudmu?
+IKAL	::	A Ling?
+A KIONG	::	YA! Berisik kali! Sabarlah
+IKAL	::	HEI!! Siapa A Ling?
+A KIONG	::	Kau itu bodoh atau memang tak tau? Kalau kau memang bodoh sih sepertinya
+A KIONG	::	"A Ling, gadis kapur Toko Sinar Harapan. Yang saban bulan kau temui itu. Sudah dulu ya, aku ingin bermain dengan kawanku lagi. Cai! mau bergabung kami bermain tidak?! Daripada kau jadi nyamuk di antara pangeran kodok itu dan drama romansanya yang menyebalkan!"
+IKAL	::	Na-namaku I-ikal
+IKAL	::	"Ini, benar darimu, kan?"
+IKAL	::	"Aku? Aku tidak begitu lihai bermain musik. Tapi aku punya teman, dia sangat mahir bermain musik. Namanya Mahar. Dia dengar banyak sekali genre musik, dari pop, jazz, dang--"
+IKAL	::	"Kalo aku tak terlalu pintar main alat musik, tapi aku suka membuat puisi. Dengan puisi, aku bisa mengungkapkan apapun yang ada dalam pikiranku."
+IKAL	::	"A Ling, lihatlah ke atas. Banyak sekali bintang di langit. Tapi lihat di sebelah sana, bintang yang satu itu terlihat paling terang. Ia berbeda daripada yang lain. Seperti halnya-"
+IKAL	::	"B- bagaimana denganmu, A Ling? Kau mahir dalam hal apa?"
+IKAL	::	"Bunga Krisan cantik seperti penggemarnya. Lain kali, ajarkan aku untuk meluk-"
+IKAL	::	"Biarkan aku mencobanya, untukmu. A Ling."
+IKAL	::	Seorang pahlawan memang selalu berhasil di akhir waktu.
+IKAL	::	"Seperti yang aku bilang sebelumnya, aku mencobanya untukmu. Jadi, ku berikan boneka ini untukmu"
+A KIONG	::	Ikal jadi iparku....iparku...eugh...
+A KIONG	::	"Iya, kau ingin berusaha mendapatkannya juga? ayo kita kesana"
+A KIONG	::	"Itu hadiahnya masih ada, Bang! Kok sudah tutup saja"
+A KIONG	::	"Eh? Surat apa tuh, Cai?"
+A KIONG	::	"Aduhai, kini kau berkirim surat macam Ikal dan A Ling juga? Musim orang dimabuk cinta memang, jangan sampai mabuk lalu kau terjungkal ke parit"
+A KIONG	::	Bah! Surat kosongan! Cinta itu tak ada!
+A KIONG	::	Ajaib? maksudnya?
+A KIONG	::	"Bodoh bodoh! Kau sudah beberapa kali mendapat surat kosong gini memangnya, Cai?"
+A KIONG	::	"Lihatlah, sudah ketiga kalinya pun tetap tidak bisa memecahkan misteri. Jadi siapa yang bodoh rupanya?"
+A KIONG	::	"Cai, gimana cai? Kau sudah menemukanf misteri dari kacamata ini kah? Aku hanya merasakan pusing!"
+MAHAR	::	"Terima kasih. Aku, Mahar, akan membawakan sebuah kejutan yang tidak akan terpikirkan oleh semua orang. Nantikanlah, Pamanda Guru."
+MAHAR	::	A Kiong! Maukah dirimu menerima kehormatan sebagai manager kami selama karnaval ini berlangsung?
+A KIONG	::	Tentu!
+IKAL	::	"Rek, kau merasa ada yang aneh kah dengan dia?"
+A KIONG	::	Siapa yang kalian maksud itu?
+MAHAR	::	HYA! ULULULULU LALALALA!! HU HA!!
+MAHAR	::	"EH, KAWAN-KAWAN!"
+MAHAR	::	"Tunggu, kawan-kawan. Aku punya ide untuk karnaval nanti!"
+A KIONG	::	"Sudah, sudah! Mahar, ide seperti apa yang kamu maksud itu?"
+MAHAR	::	"Kawan-kawanku! Bergembiralah kalian! Tahun ini ... tak ada lagi petani, buruh timah, atau apapun yang ada pada tahun-tahun sebelumnya! Tahun ini ... BENAR-BENAR TAHUN KEBANGKITAN KITA!!!"
+MAHAR	::	Tahun yang dinanti-nanti ... TAHUN BANGKITNYA SD KITA KE SELURUH PENJURU DUNIA!!!
+MAHAR	::	"Hehehe, kalian akan tampil dalam koreografi massal!"
+MAHAR	::	"Yaa, kita menari!"
+MAHAR	::	"Nasi sudah jadi bubur, tak apalah Trapani. Kau dukung kami saja karnaval besok, ya!"
+A KIONG	::	"Jadi, kita akan menari seperti apa, Har?"
+MAHAR	::	"Nah, jadi seperti ini kawan."
+MAHAR	::	"Dengan begitu, aku yakin ini akan menjadi momen yang pas untuk menunjukkan siapa kita ini."
+MAHAR	::	Sekarang lah!
+MAHAR	::	Iyalah! Sini-sini.
+MAHAR	::	LASKAR PELANGI!!
+MAHAR	::	Inilah saatnya ....
+A KIONG	::	"Kalung apa itu, Har? Keren kali!"
+MAHAR	::	"Kalung buatanku, biar makin cakep kalian saat tampil. Kujamin semua orang kan terpesona dengan penampilan kalian."
+IKAL	::	"Eh Kucai, apa yang kau sembunyikan itu?"
+IKAL	::	Apakah kita yakin bakal sukses besar?
+IKAL	::	"Tidak, maksudku lihatlah mereka semua. Aksi yang ditunjukkan keren-keren. Aku seperti tak yakin apakah pertunjukkan kita akan berhasil atau tidak?"
+MAHAR	::	"Sudah kubilang, percayalah. Ini akan jadi pertunjukkan hebat, yang takkan pernah kau bayangkan reaksi orang-orang itu."
+MAHAR	::	Siap?
+IKAL	::	Mahar ... Ini benar kita mendapat semua ini? Apakah kita bermimpi?
+MAHAR	::	"Makanya. Percayalah padaku, bahwa kita akan bangkit perlahan-lahan!"
+A KIONG	::	"Woaah?! Eh, bener, Dan!"
+IKAL	::	"Rindu ini kubawa dari pesisir Tanjung Pinang, kurengkuh di antara hujan pertama bulan September, dan angin selatan membawaku kemari kembali, A Ling..!"
+IKAL	::	Seandainya mereka bisa bicara...
+IKAL	::	"A Ling...A Ling...! Kulalui sudah belasan malam setelah kepergianmu. Meninggalkan aku...merana! Sendirian! A Ling... A ling.. masih ku teringat pijar matamu saat sembahyang kala itu Pantulan sang purnama tercetak jelas di matamu Dan tak pernah kulihat rembulan begitu cemburu dengan sinarnya yang kau curi Namun kini, sang purnama kehilangan tempat bercermin Dimanakah ia bisa bercermin selain di mata indahmu itu, A Ling?"
+IKAL	::	"'Seandainya Kita Bisa Bicara'...Tapi kau tak bicara padaku saat ini, A Ling... Kini kau biarkan aku bicara sendirian. Siapa yang akan mendengarkanku, A Ling? Tumpukan pasir? Ilalang yang tumbuh tinggi? atau dedaunan yang jatuh? AH. yang akan terpupuk hanyalah rindu! Yang semakin tumbuh hanyalah cinta padamu. dan yang jatuh hanyalah aku pada hatimu. Namun, kini reduplah pula aku tanpamu..."
+MAHAR	::	PISAU!
+MAHAR	::	KUNIR!
+IKAL	::	Mahar..ngapain kau..enyahlah..
+MAHAR	::	Jin-jan-jun....enyahlah dari kawanku Ikal...jin-jan-jun...enyahlah...ENYAAAH!!!!
+MAHAR	::	"Ahem, Tiga anak jin tersinggung karena kau kencing sembarangan di altar kerajaan mereka di belakang sekolah. Merekalah yang membuatmu demam begini"
+MAHAR	::	"Tapi tenang saja kawan, besok juga kau sudah bisa masuk sekolah. Mereka sudah kuusir dengan kekeluargaan, tenang saja."
+IKAL	::	A Ling! A Ling! Kau dimana A Ling?
+A KIONG	::	Ah hanya kertas begitu saja Ibunda Guru! Kalau hadiah kenapa tak kasih ciki saja!
+MAHAR	::	"AH! Kau orang terpintar yang kutahu setelah Almarhum Albert Einstein, Boy! Aku yakin kau pasti bersinar!"
+IKAL	::	Lintang! Jangan patah semangat! Masih bisa terkejar itu!
+MAHAR	::	BOYYY KITA MENANG BOYY!!!
+MAHAR	::	"Padahal anak itu tak pernah bolos walau bertemu buaya, Kal. Walau aku tak mengerti, rindu juga aku dengan celotehannya."
+IKAL	::	"Tak tahu, Ibunda Guru. Aku juga tidak melihatnya di pasar ikan belakangan ini, tetapi kudengar badai sedang mengamuk di pesisir, barangkali pohon besar menghalangi jalannya--"
+IKAL	::	Boy.. haruskah kau berhenti sekolah?
+IKAL	::	"Hari ini aku kehilangan teman sebangkuku selama 9 tahun. Hari ini, Bangka Belitung kehilangan putranya yang paling cerah, bunga meriam yang tak kan lagi melontarkan tepung sarinya. Bintang rasi Cassiopeia yang meledak dini hari ketika orang masih terlelap dalam ketidakpedulian."
+IKAL	::	"Seorang super-genius, anak dari pulau terkaya di Indonesia ini, berhenti sekolah karena tak bisa bayar! Betapa lucunya. Hari ini, seekor tikus kecil mati di lumbung padi yang berlimpah ruah."
+IKAL	::	Anak sepintar kau harusnya sekolah sampai ke Cina! Bukannya..bukannya berhenti gara-gara begini..Apa yang kulakukan jika kau tak sekolah lagi boy...siapa yang akan mengajakku bermimpi boy..
+IKAL	::	Katanya kau punya mimpi?! Sekarang akankah kau menyerah begitu saja?!?! Jawab boy!!
+IKAL	::	Tang! Jawab aku tang!
+IKAL	::	Tang..
+MAHAR	::	"Aku tahu kita tak pernah sepikiran dalam satu hal. Kutub utara pada kutub selatanku. Copernicus pada Van Gogh ku, kawan. Kapal ini akan kehilangan salah satu nahkodanya."
+IKAL	::	Lintang..
+IKAL	::	"Maafkan aku, boy! Tak harusnya kukatakan semua itu, boy! Semua kata-kataku soal meninggalkan mimpi...lupakan saja. Aku tak memikirkan posisimu dan malah membuatmu tambah berduka. Kau berhenti sekolah bukan berarti mimpimu berhenti, Boy. Aku percaya kau tak akan berhenti di sini..."
+IKAL	::	"Lintang...untukmu, aku akan sekolah sampai ke Eropa...sampai ke Cina! Tunggulah aku Lintang, akan kubuat mereka semua mengenal namamu. Lintang di langit belitong, aku takkan biarkan mimpimu mati, selama aku masih bermimpi"
+MAHAR	::	"...Maksudnya apa, Kawan?"
