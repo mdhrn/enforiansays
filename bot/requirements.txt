@@ -13,3 +13,4 @@ six==1.17.0
 tweepy==4.15.0
 tzdata==2025.1
 urllib3==2.3.0
+schedule==1.2.0
