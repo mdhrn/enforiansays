@@ -2,7 +2,7 @@ name: Run Twitter Bot
 
 on:
   schedule:
-    # Runs every 30 minutes from 2:00 AM to 2:00 PM UT
+    # Runs every 30 minutes from 2:00 AM to 2:00 PM UTC
     - cron: "*/30 2-14 * * *"
 
 jobs:
