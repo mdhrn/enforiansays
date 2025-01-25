@@ -5,6 +5,9 @@ import schedule
 import time
 from pytz import timezone
 from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()
 
 import os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -93,3 +96,5 @@ while True:
     except Exception as e:
         print(f"Error with schedule: {e}")
         break  # Optionally exit if there's an error
+
+
