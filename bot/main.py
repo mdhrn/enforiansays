@@ -56,7 +56,7 @@ def postTweet():
         now = datetime.now(timezone('Asia/Jakarta'))
         current_hour = now.hour
         if 9 <= current_hour < 21:  # Only post between 9 AM and 9 PM (GMT+7)
-            df = readTextFile("bot/scriptFiltered.txt")
+            df = readTextFile("scriptFiltered.txt")
             if df.empty:
                 print("No data available to tweet.")
                 return
