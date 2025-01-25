@@ -86,15 +86,3 @@ def postTweet():
     except Exception as e:
         print(f"Error posting tweet: {e}")
 
-# Run the function to post a single tweet
-schedule.every(30).minutes.do(postTweet)
-
-while True:
-    try:
-        schedule.run_pending()
-        time.sleep(1)
-    except Exception as e:
-        print(f"Error with schedule: {e}")
-        break  # Optionally exit if there's an error
-
-
