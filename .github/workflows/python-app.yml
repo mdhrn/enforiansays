@@ -1,0 +1,35 @@
+name: Run Twitter Bot
+
+on:
+  schedule:
+    # Runs every 30 minutes from 2:00 AM to 2:00 PM UTC
+    - cron: "*/30 2-14 * * *"
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9.x"
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      # Run the bot script
+      # Run the bot script
+      - name: Run the Bot
+        env:
+          API_KEY: ${{ vars.API_KEY }}
+          API_SECRET: ${{ vars.API_SECRET }}
+          ACCESS_TOKEN: ${{ vars.ACCESS_TOKEN }}
+          ACCESS_TOKEN_SECRET: ${{ vars.ACCESS_TOKEN_SECRET }}
+          BEARER_TOKEN: ${{ vars.BEARER_TOKEN }}
+        run: python bot.py
